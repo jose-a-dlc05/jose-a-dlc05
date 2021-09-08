@@ -22,13 +22,18 @@ My name is Jose De La Cruz and I'm a full-stack developer with experience in Rea
 
 <h3>Languages and Tools:</h3>
 
-![node-js](/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/react.svg)
+![css](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/css.svg)
 
+![html](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/html.svg)
 
+![javascript](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/javascript.svg)
 
-<img src="/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/typescript.svg" alt="typescript" style="zoom:25%;" />
+![node-js](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/node-js.svg)
 
-![node-js](/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/node-js.svg)![html](/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/html.svg)![css](/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/css.svg)![javascript](/Users/delacruz/Documents/Documents - Jose’s MacBook Air/PortfolioLanguageIcons/javascript.svg)<!--
+![react](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/react.svg)
+
+![typescript](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/typescript.svg)
+
 **jose-a-dlc05/jose-a-dlc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
