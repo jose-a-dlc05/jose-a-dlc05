@@ -22,17 +22,17 @@ My name is Jose De La Cruz and I'm a full-stack developer with experience in Rea
 
 <h3>Languages and Tools:</h3>
 
-![css](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/css.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452178-c99025c7-c14b-4eb3-9fd3-3912e65c6190.png)
 
-![html](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/html.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452254-8001a84f-d0a2-474a-85e2-df2a6c049f97.png)
 
-![javascript](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/javascript.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452332-63d3f0c5-1d1e-4136-8a39-f02c5a584ef6.png)
 
-![node-js](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/node-js.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452387-2a22124e-d9de-4672-b56b-e3701efc38de.png)
 
-![react](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/react.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452427-462d75a6-dc48-47d9-a086-5b0a48df2bc0.png)
 
-![typescript](/Users/delacruz/Projects/jose-a-dlc05/readme-assets/typescript.svg)
+![image](https://user-images.githubusercontent.com/74112121/132452468-aaa75561-748f-4f54-ac72-fd2ed5cc606d.png)
 
 **jose-a-dlc05/jose-a-dlc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
