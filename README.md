@@ -10,7 +10,7 @@ My name is Jose De La Cruz and I'm a full-stack developer with experience in Rea
 
 <h3>Find me on:</h3>
 
-<a href="www.linkedin.com/in/jose-delacruz05"><img src="https://camo.githubusercontent.com/bb9a2e25562330fe8550c48e553c348d7f18f690e009bd2ced9a4114799758a5/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6f6666696369616c2d6c696e6b6564696e2d6c6f676f2d2d2d2d31372e706e67" alt="LinkedIn" style="width:30px;" /></a>
+<a href="www.linkedin.com/in/jose-a-dlc05"><img src="https://camo.githubusercontent.com/bb9a2e25562330fe8550c48e553c348d7f18f690e009bd2ced9a4114799758a5/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6f6666696369616c2d6c696e6b6564696e2d6c6f676f2d2d2d2d31372e706e67" alt="LinkedIn" style="width:30px;" /></a>
 
 <h3>Projects:</h3>
 
