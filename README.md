@@ -1,4 +1,4 @@
-<h1 align="center">Hey Whats up! 👋, I'm Jose</h1>
+<h1 align="center">Hey Whats up! 👋🏽 I'm Jose</h1>
 <h3 align="center">My name is Jose De La Cruz and I'm a full-stack developer with experience in React, Node and SQL. With former experience as a business analyst, I collect requirements and translate them into actionable items that could be achieved through code.</h3>
 
 - 🔭 I’m currently working on a product feedback application which takes users' suggestions and allows product owners and developers to figure out their next feature or fix a current bug. **Wombat**
