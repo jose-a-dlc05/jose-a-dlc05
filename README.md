@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react or any projects being built with it. I am always willing to help and learn more.**
 
-- ⚡ Fun fact **Outside of coding some of my favorite things to do are watch comedy shows, participate in theater, and even dabble in kickboxing  here and there.**
+- ⚡ Fun fact **Outside of coding some of my favorite things to do are watch comedy shows and foreign movies, stay active working out and playing basketball and even dabble in kickboxing here and there.**
 
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-a-dlc05)
