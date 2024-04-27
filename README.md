@@ -1,7 +1,7 @@
 <h1 align="left">Hey Whats up! 👋🏽 I'm Jose</h1>
 <h3 align="left">My name is Jose De La Cruz and I'm a full-stack developer with experience in React, GraphQL, Node and SQL. With former experience as a business analyst, I collect requirements and translate them into actionable items that could be achieved through code.</h3>
 
-- 🔭 I’m currently working on a mind map application which allows users to create a mind map from scratch. **Mind Node**
+- 🔭 I’m currently working on a college course review app and implementing some CI/CD. **Course Critique**
 
 - 🌱 I’m currently learning **More React, GraphQL and Prisma**
 
