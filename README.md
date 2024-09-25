@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React or any projects being built with it. I am always willing to help and learn more.**
 
-- ⚡ What else am I up to **Studying for a nutrition coaching certification**
+- ⚡ What else am I up to is **studying for a nutrition coaching certification**
 
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-a-dlc05)
