@@ -1,13 +1,13 @@
 <h1 align="left">Hey Whats up! 👋🏽 I'm Jose</h1>
-<h3 align="left">My name is Jose De La Cruz and I'm a Full Stack developer with experience in React, GraphQL, Node and TypeScript. With former experience as a business analyst, I collect requirements and translate them into actionable items that could be achieved through code.</h3>
+<h3 align="left">I'm a Fullstack Developer specializing in React, Node.js, TypeScript, and GraphQL. I have experience working with state management libraries like Redux and Recoil and implementing testing strategies using frameworks such as Jest, Vitest, and React Testing Library. Additionally, I have made contributions using Scala and have a solid understanding of backend development. My current interests include exploring AWS cloud solutions and experimenting with large language models like OpenAI and LangChain to enhance the capabilities of modern applications.
 
-- 🔭 I’m currently working on a Chat AI app with Authentication and Profile Management. **AI Pennyworth**
+With over 3 years of industry experience, I have developed robust applications for the electronic equipment and networking software and hardware industries. I am passionate about building innovative solutions that drive efficiency and scalability while continuously expanding my skill set in cutting-edge technologies.</h3>
 
-- 🌱 I’m currently learning **AWS and LLMs**
+- 🔭 I’m currently working on the ProFeedback App and adding more features to it as I go. **ProFeedback**
 
 - 💬 Ask me about **React or any projects being built with it. I am always willing to help and learn more.**
 
-- ⚡ What else am I up to is **studying for a nutrition coaching certification**
+- ⚡ What else am I up to is **studying for a TESOL certification**
 
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-a-dlc05)
