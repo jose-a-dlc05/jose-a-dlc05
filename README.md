@@ -1,6 +1,6 @@
 <h1 align="left">Hey Whats up! 👋🏽 I'm Jose</h1>
 <h3 align="left">I'm a Fullstack Developer specializing in React, Node.js, TypeScript, and GraphQL. I have experience working with state management libraries like Redux and Recoil and implementing testing strategies using frameworks such as Jest, Vitest, and React Testing Library. Additionally, I have made contributions using Scala and have a solid understanding of backend development. My current interests include exploring AWS cloud solutions and experimenting with large language models like OpenAI and LangChain to enhance the capabilities of modern applications.
-
+<br>
 With over 3 years of industry experience, I have developed robust applications for the electronic equipment and networking software and hardware industries. I am passionate about building innovative solutions that drive efficiency and scalability while continuously expanding my skill set in cutting-edge technologies.</h3>
 
 - 🔭 I’m currently working on the ProFeedback App and adding more features to it as I go. **ProFeedback**
