@@ -40,6 +40,7 @@
 <br/>
 <br/>
 <br/>
+<div></div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-a-dlc05&show_icons=true&locale=en&layout=compact" alt="jose-a-dlc05" /></p>
 <br/>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jose-a-dlc05&show_icons=true&locale=en" alt="jose-a-dlc05" /></p>
