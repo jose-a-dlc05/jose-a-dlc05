@@ -1,12 +1,12 @@
 <h1 align="left">Hey Whats up! 👋🏽 I'm Jose</h1>
-<h3 align="left">I'm a Fullstack Developer specializing in React, Node.js, TypeScript, and GraphQL. I have experience working with state management libraries like Redux and Recoil and implementing testing strategies using frameworks such as Jest, Vitest, and React Testing Library. Additionally, I have made contributions using Scala and have a solid understanding of backend development. My current interests include exploring AWS cloud solutions and experimenting with large language models like OpenAI and LangChain to enhance the capabilities of modern applications.
-<br></h3>
+<p align="left">I'm a Fullstack Developer specializing in <strong>React</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>GraphQL</strong>. I have experience working with state management libraries like <strong>Redux</strong> and <strong>Recoil</strong> and implementing testing strategies using frameworks such as <strong>Jest</strong>, <strong>Vitest</strong>, and <strong>React Testing Library</strong>. Additionally, I have made contributions using <strong>Scala</strong> and have a solid understanding of backend development. My current interests include exploring AWS cloud solutions and experimenting with large language models like OpenAI and LangChain to enhance the capabilities of modern applications.
+<br></p>
 
 - 🔭 I’m currently working on the ProFeedback App and adding more features to it as I go. **ProFeedback**
 
 - 💬 Ask me about **React or any projects being built with it. I am always willing to help and learn more.**
 
-- ⚡ What else am I up to is **studying for a TESOL certification**
+- ⚡ What else am I up to is working with a mentor of mine on creating online courses for beginner developers.
 
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-a-dlc05)
