@@ -1,38 +1,33 @@
 <h1 align="left">Hey Whats up! 👋🏽 I'm Jose</h1>
-<p align="left">I'm a Frontend Engineer specializing in <strong>React</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, and <strong>GraphQL</strong>. I have experience working with state management libraries like <strong>Redux</strong> and <strong>Recoil</strong> and implementing testing strategies using frameworks such as <strong>Jest</strong>, <strong>Vitest</strong>, and <strong>React Testing Library</strong>. Additionally, I have made contributions using <strong>Scala</strong> and have a solid understanding of backend development. My current interests include exploring Next.js and experimenting with large language models like OpenAI and LangChain to enhance the capabilities of modern applications.
+<p align="left">I'm a Backend Engineer specializing in <strong>Python</strong>, <strong>JavaScript/TypeScript</strong>, <strong>Java</strong>, <strong>Go</strong>, and <strong>Scala</strong> with a focus on high-concurrency systems and AI infrastructure. Over the past four years, I have architected and maintained large-scale distributed systems, specifically at Cisco, where I route 500+ high-concurrency model calls and manage 5,000+ stateful Scala actors using the Akka framework. My work is grounded in microservices and event-driven architecture, ensuring 100% data consistency through transactional outbox services processing 10,000+ daily events using Java and PostgreSQL.
+
+I specialize in building resilient gateways and AI-routing consensus services. This includes developing high-speed Go and NATS routers to validate decisions across LLMs like GPT-4, Claude, and Gemini, as well as managing 200+ self-healing Temporal workflows. I also prioritize security and compliance, having engineered systems that secure 2M+ daily AI tokens using Java 21 and Spring Boot.
+
+My technical toolkit spans Go, Python, Java, Scala, and TypeScript. I am proficient with frameworks such as Gin, FastAPI, and Express, and I utilize infrastructure tools like Docker, Kubernetes, Jenkins, and AWS (S3, Lambda, Cloudfront). My data expertise includes Kafka, RabbitMQ, PostgreSQL, Redis, and MongoDB. Previously, at J.B. Hunt, I saved $20k in annual licensing fees by building internal reporting systems and optimized workflows within Microsoft Dynamics and SharePoint.
+
+I hold a Master of Science in Information Systems from NJIT and remain committed to mastering distributed systems through continuous professional development. Let's connect if you think we can help each other out.
 <br></p>
-
-- 🔭 I’m currently working on the ProFeedback App and adding more features to it as I go. **ProFeedback**
-
-- 💬 Ask me about **React or any projects being built with it. I am always willing to help and learn more.**
-
-- ⚡ What else am I up to is working with a mentor of mine on creating online courses for beginner developers.
 
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-a-dlc05)
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+<img align="left" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python Badge">
+<img align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java Badge">
+<img align="left" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go Badge">
+<img align="left" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot Badge">
+<img align="left" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI Badge">
+<img align="left" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker Badge">
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
 <img align="left" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
 <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
-<img align="left" src="https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=flat-square" alt="Create React App Badge">
-<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="Github Actions Badge">
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB Badge">
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square"/>
-<img align="left" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=flat-square"/>
 <img align="left" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square"/>
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square" alt="npm Badge">
-<img align="left" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff&style=flat-square" alt="Testing Library Badge">
-<img align="left" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square" alt="Vite Badge">
-<img align="left" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat-square" alt="Vitest Badge">
 <img align="left" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=flat-square" alt="Firebase Badge">
 <img align="left" src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff&style=flat-square" alt="Scala Badge">
 <img align="left" src="https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=flat-square" alt="Strapi Badge">
