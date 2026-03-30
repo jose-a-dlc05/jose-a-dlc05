@@ -36,5 +36,5 @@ I hold a Master of Science in Information Systems from NJIT and remain committed
 <br/>
 <br/>
 <div></div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-a-dlc05&show_icons=true&locale=en&layout=compact" alt="jose-a-dlc05" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-a-dlc05&show_icons=true&locale=en&layout=compact" alt="jose-a-dlc05" /></p> -->
 
